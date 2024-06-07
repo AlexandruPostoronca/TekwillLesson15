@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Generics enhance type safety by shifting more type checking responsibilities
+      to compiler
+    is_correct: true
+  - text: Generics speed up your code
+    is_correct: false
+  - text: Generics can work with multiple classes without explicit type-casting
+    is_correct: true
+  - text: Generics help to detect your bugs at run time
+    is_correct: false
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4tKU2eBBAacR/guEJ9XR/DWe7UxqJODhdAO/zUEx00FiLkjnN2tkLxBWwLWug1KXQ==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 15 May 2024 12:19:04 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+custom_name: Why generics?
+local_check: true

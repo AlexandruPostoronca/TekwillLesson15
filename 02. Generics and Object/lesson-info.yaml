@@ -1,0 +1,10 @@
+content:
+  - Theory
+  - Correct the usage of non-generic class
+  - What is a type
+  - Boxes are not just objects
+  - Initialize an object of a generic class
+  - Instance without type argument
+  - Reusing code with Object
+  - What is wrong
+  - Why generics

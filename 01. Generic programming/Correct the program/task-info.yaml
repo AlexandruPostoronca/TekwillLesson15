@@ -1,0 +1,20 @@
+type: edu
+custom_name: Correct the program
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: TJliDn+UVM2OxsRZ3S5uwApjkRXK+3vBI8Dul5bydkQu7zJIymLPBLbuyLpYoZl3y4wnLHRJ9N2BB1HAicu/b57jvWQUBEYNiZkzCtKEadrNlP39bcz5XJrpSJx6LC8ByTNJlIxE1vDXrkyQsGCYirzL9aEJwho5dNTwtw6jnZcDih5Cpr/Qh0jcx4CPI4t76gso9tih/b7QekmTwoykIg9M1TRs3m6ApQ2b38zZhtLdZW8oLakZh1GhpIYGgaGuSyLddGub/+aYmYUIXdp5iKeLtUBDBYcwjAuS9VRaBrc7uaHXoT/8I/+xv+mGJKxS0E2bJMMTL6H5eZJmSXR8Bg==
+    learner_created: false
+  - name: src/Printer.java
+    visible: true
+    encrypted_text: G+6rMpgwK8XB6UDouZyL51AMzjtIHRGJ6TCXks0ezrKaXYr6HK6dKIq6RV6kEjMmlYsTJTDmjeyN8qOTGPju0SNDwRN+dzunsqJ8DAL8aDLIlD55kKQgKVx8GHWC1WLKXIpAHhTbosqF6s1y0h8bUvJCsEDxNPWcO7VEW0jBnd62hHPeqeVRU0YdIYwuzLDXhU3DzRCZca9cRTzLHhT0GbO4CbU+FqJZG+Hj70msg2j+WX6XAIVjeNpQcqUFNDrZ
+    learner_created: false
+  - name: test/MainTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nEsEPHevjd6ZOkKdl5CNK3XoTnNMhliQtiuGjK71enIYXZKzozSlkIcKbL6Sid2DxPCVTdGgAwh348em+ytIWMJxwh4kFZpSbv3IZgjpRLPaVjt96XCl71Mxe1QRXR6zExV1a5RX7KkHXnIdUG3utIU9KrEAnCmRrTcRxCi6z59sjOyX6v5ex50Wy86z63QjpPYuxkFmm+UjSGj7KhlIsnNBa1FTX5mLxBXzJokfYLE11HnlxL9HzyKxipnw+pa9rFxBrKlXxD+VC78Yqvai7Jqt9I+ujD2mLRFpPAW8mMJJXUoF4wHlfd+bfrLw2GBDS/0fFLk0k+7TViQjrjppk17PcvLRs/1kz/3lcjzLlef5Xv/a1IUlD5u9F7uayXJQ/sdPSeiwiDVkQZQAa2gjBl/eG8bgGoh93KxRZ/4/q/SENlPjQBRfcqSIiEs5mbEAIu/M9ElIkGsv2ffOQKAq/AhahmamFsRo991OipFviOed6PSoScjdoUFHSv+IK3HG6lKunAJ/fBNo0w4+UhcBmUVs3YT5RUCeKX89dscgMUXFZo1SPn3SuNV4AVuPeFjLiM7LDdXTYNDaAWzNPZC4bYdZ1tl0oM7zOTGLAP0Cws8+aCSqgopp3K70dMHpQ3eyPXSRGURhp8hM3NSiOZh0ldKL6HOQplR7SPRWKeJrUWdg/iF6IQvaM2tIQeLeRo4d7yZtJkGQnG3iy8fVJonmQjKsW6c7e5CHR7EfJk5JvurCjICWKrqcdS5HUzkcN8TUPKFoexttx+6VhGM7SlbQT2jiUHgZQGBDzjoXAiweFKZbSalduGsBD4SUV/52PmGhfCvjUxGdfMeO9SxJjnP2k2IO1vKe/CSrGDx7jYrO/GUfuepKbZH7kNlMKmwrGZwobIGePQ5SaMkgo8wYXDNCWGekRrQRg1XpnTc5anx0lG5J
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 15 May 2024 09:31:35 UTC"
+record: -1

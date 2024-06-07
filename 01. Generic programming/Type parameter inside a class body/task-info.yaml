@@ -1,0 +1,29 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: The type of a field
+    is_correct: true
+  - text: The type of a local variable inside an instance method
+    is_correct: true
+  - text: An instance method's argument type
+    is_correct: true
+  - text: An instance method's return type
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am2veUqlp63F5lxEAwbBQempXPsBIjeXs2wTZafI9V0nFYxAf1rSciieVcn3ovR1XW7F96QigVF2MqEKkuOQFlCwilnLcf//jYj92VS4hTEwvUVGEQ/uSTS7mmwsCaJOpVg==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 15 May 2024 10:06:00 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 2
+  - 3
+custom_name: Type parameter inside a class body
+local_check: true

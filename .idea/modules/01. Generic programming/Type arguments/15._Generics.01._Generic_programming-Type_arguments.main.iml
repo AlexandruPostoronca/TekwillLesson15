@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":01._Generic_programming-Type_arguments:main" external.linked.project.path="$MODULE_DIR$/../../../../01. Generic programming/Type arguments" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="15._Generics" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../01. Generic programming/Type arguments/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../01. Generic programming/Type arguments/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../01. Generic programming/Type arguments/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="15._Generics.util.main" />
+  </component>
+</module>

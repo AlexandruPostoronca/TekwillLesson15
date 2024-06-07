@@ -1,0 +1,19 @@
+type: marketplace
+title: 15. Generics
+language: English
+summary: |-
+  This is an introductory about Generics in Java.
+  - 01. Generic programming
+  - 02. Generics and Object
+  - 03. Generic methods
+programming_language: Java
+programming_language_version: 17
+content:
+  - 01. Generic programming
+  - 02. Generics and Object
+  - 03. Generic methods
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_17
+vendor:
+  name: Alexandru Umaneț

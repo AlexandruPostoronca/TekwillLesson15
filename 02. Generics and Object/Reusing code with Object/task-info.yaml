@@ -1,0 +1,29 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Integer num = (Integer) instance.get();
+    is_correct: true
+  - text: String str = (String) instance.get();
+    is_correct: false
+  - text: Object obj = instance.get();
+    is_correct: false
+  - text: String str = instance.get();
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am2veUqlp63F5lxEAwbBQempXPsBIjeXs2wTZafI9V0nFYxAf1rSciieVcn3ovR1XW7F96QigVF2MqEKkuOQFlCwilnLcf//jYj92VS4hTEwvUVGEQ/uSTS7mmwsCaJOpVg==
+    learner_created: false
+  - name: src/NonGenericClass.java
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 15 May 2024 12:01:37 UTC"
+record: -1
+selected_options:
+  - 0
+custom_name: Reusing code with Object
+local_check: true

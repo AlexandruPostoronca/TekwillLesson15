@@ -1,0 +1,37 @@
+type: edu
+custom_name: Pastry packing optimization
+files:
+  - name: src/CakeBox.java
+    visible: true
+    encrypted_text: dDUmuCv3lPO7GgZPMQyrGnTjF0loJMAWUa5sVm2CYj4TaNId6N3GLilzf4SqtP1Ckd3Dj4ucB40/JywYqlAeJ89WtXGgGNMR+ak4HDrqvuO6TBD5CzZ0UGClU697N0BcafB5WOkUVaZlQo/zaEqPCEXUegcQ8YSk1LcFcqjsEPtTHQNjqZE6iIc/UQkOYr1U3yP4GD+kAiMdQmPAtDtAsO1VZ7n9XNyHY4VlTCJshgIYMDjNP8u/yDwJ/ikaeKJe9U9wFV/Lhp6VSs4GabKLHA==
+    learner_created: false
+  - name: src/PieBox.java
+    visible: true
+    encrypted_text: 18M+Oyqz+EjIPmmMofXpfq/X5d3eJSRPXm67azSCIHURujyIFoPcuQT4JiKPVCgttWxiUwfL7BkRLf33LqhKwrbsoAXXhH+/OMiqhiEu5wDTgTDaY30ZwLIwG6KS2pm84dyrKwn9F6sIuGzC3Y5ZUGo7HjxvuI+8tj8fZlcp4w68QWPu2HfLkwHfIQZdcZ0KEx0NuAKEK4G/E+sDKLGkeE1YrQYYe/IUkq/inQ4gL7Uw8e8+WeWLRWpOEvLheH+r
+    learner_created: false
+  - name: src/TartBox.java
+    visible: true
+    encrypted_text: 8hVQDmmknQWRc+O/ulOoZTvRUY8NV0CAGtPU2ZcQfiwfu9wPeFlFvcKT4mMP2DqBLoQwirFzF0yfPFeOQIGkBkfTqGr6tTGYr+nPHoOEfc2LQTu6Z26RvNV1M2an5b1LbEVk+3wc4ZKf5yQhh0GDmyzVXWX/DjgADAI1wzSa5Hrrefmm1xEvtPSJWD8JIXVRcCU12wvTihlKHHlXUwHSZwBN1HSiXTUI43A6nPA6zaqeNd2gbOvHUPrqWHZAVs1TR0kz7QOaIjRfFdrrGcoXag==
+    learner_created: false
+  - name: src/Tart.java
+    visible: true
+    encrypted_text: Jch7Gq/N3z/qRNWPCKbLmjrteBSK7AOYEacDHvqQW2I=
+    learner_created: false
+  - name: src/Pie.java
+    visible: true
+    encrypted_text: tEwiU38UIhswK5eY6Xru3B0GLMHDXxG2260P7j0nYtI=
+    learner_created: false
+  - name: src/Cake.java
+    visible: true
+    encrypted_text: HIUZIkZaB0MY85NVsOzbZ63u21UlaV0owNSLdLjOnso=
+    learner_created: false
+  - name: src/Box.java
+    visible: true
+    encrypted_text: kVN+cYPCIeGv3ONTg0b4iDsDCMirTHD4RePRtRCxzx1C2cJnqzpLviTPqw1Wosny
+    learner_created: false
+  - name: test/BoxTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nNW1IvpougeK7rJlhAQ85ooZI8pPzIiB3LSJjLsQcOhXTIfxUDly08hIQA/OoBPJ2Yvpt8211HZ6e0dYJDjuUiVU5rTsunums7B4JL4mYxhP90BxMTUvHOg179dPRlnuTbDMe7m8ekuD109byEsaGdhS8JsTPmq618DseeEECFXvMB0UZ4Rno4eZwAH3/tylTouAiaPKQDSjp0N2JNXm/ecjcRqzN/JobWxZqk/UDaoGMQU/trFXmBMXdD1l26Y59HkDqV3LpgWuZ6IOPE7ApV96pJ4O3yApwDtTIcqSo6mEWXywUItXCZZFrgosYcfcZchR2sA/WWAv3WJL3fstdT8BwcCtsqlG6lKxEfnmQCdUVAYqwKN+6QZlYilNjwix2Vgp3+/oZ0Atuu4JtQ4tXHHdsWTk1H5ipmK3gKtMCOnL/aJROSp1fUPltPEzTT4yg7+2dv9y9Fa6+BrJC05sof33+MTTymos4o8ccQJet6/VTw0JDkKRetcZo4adfnGQ+7l9NxEPmA0N3I66SQR8oXrjabmjhLH0oeZMMMLX0wKG
+    learner_created: false
+status: Unchecked
+record: -1

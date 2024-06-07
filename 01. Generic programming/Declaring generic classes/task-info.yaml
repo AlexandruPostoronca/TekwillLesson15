@@ -1,0 +1,33 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "class [E]C { /* ... */ }"
+    is_correct: false
+  - text: "class C[E] { /* … */ }"
+    is_correct: false
+  - text: "class {E}C { /* … */ }"
+    is_correct: false
+  - text: "class C{E} { /* … */ }"
+    is_correct: false
+  - text: "class (E)C { /* … */ }"
+    is_correct: false
+  - text: "class C(E) { /* … */ }"
+    is_correct: false
+  - text: "class &lt;E&gt;C { /* … */ }"
+    is_correct: false
+  - text: "class C&lt;E&gt; { /* … */ }"
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am2veUqlp63F5lxEAwbBQempXPsBIjeXs2wTZafI9V0nFYxAf1rSciieVcn3ovR1XW7F96QigVF2MqEKkuOQFlCwilnLcf//jYj92VS4hTEwvUVGEQ/uSTS7mmwsCaJOpVg==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 15 May 2024 09:26:13 UTC"
+record: -1
+selected_options:
+  - 7
+custom_name: Declaring generic classes
+local_check: true

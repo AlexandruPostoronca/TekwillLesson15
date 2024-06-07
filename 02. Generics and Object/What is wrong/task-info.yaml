@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "Compile-time: incompatible types: java.lang.String cannot be converted to\
+    \ long"
+    is_correct: false
+  - text: "Compile-time: incompatible types: long cannot be converted to java.lang.String"
+    is_correct: true
+  - text: "Runtime: incompatible types: long cannot be converted to java.lang.String"
+    is_correct: false
+  - text: Compilation and running successfully
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am2veUqlp63F5lxEAwbBQempXPsBIjeXs2wTZafI9V0nFYxAf1rSciieVcn3ovR1XW7F96QigVF2MqEKkuOQFlCwilnLcf//jYj92VS4hTEwvUVGEQ/uSTS7mmwsCaJOpVg==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 15 May 2024 12:01:50 UTC"
+record: -1
+selected_options:
+  - 1
+custom_name: What is wrong
+local_check: true

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01. Generic programming/Correct the program" />
+            <option value="$PROJECT_DIR$/01. Generic programming/Creating instances" />
+            <option value="$PROJECT_DIR$/01. Generic programming/Declaring generic classes" />
+            <option value="$PROJECT_DIR$/01. Generic programming/Declaring generic classes 2" />
+            <option value="$PROJECT_DIR$/01. Generic programming/Generic parameter values" />
+            <option value="$PROJECT_DIR$/01. Generic programming/Pastry packing optimization" />
+            <option value="$PROJECT_DIR$/01. Generic programming/Theory" />
+            <option value="$PROJECT_DIR$/01. Generic programming/Type arguments" />
+            <option value="$PROJECT_DIR$/01. Generic programming/Type arguments 2" />
+            <option value="$PROJECT_DIR$/01. Generic programming/Type parameter inside a class body" />
+            <option value="$PROJECT_DIR$/02. Generics and Object/Boxes are not just objects" />
+            <option value="$PROJECT_DIR$/02. Generics and Object/Correct the usage of non-generic class" />
+            <option value="$PROJECT_DIR$/02. Generics and Object/Initialize an object of a generic class" />
+            <option value="$PROJECT_DIR$/02. Generics and Object/Instance without type argument" />
+            <option value="$PROJECT_DIR$/02. Generics and Object/Reusing code with Object" />
+            <option value="$PROJECT_DIR$/02. Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/02. Generics and Object/What is a type" />
+            <option value="$PROJECT_DIR$/02. Generics and Object/What is wrong" />
+            <option value="$PROJECT_DIR$/02. Generics and Object/Why generics" />
+            <option value="$PROJECT_DIR$/03. Generic methods/Check for null" />
+            <option value="$PROJECT_DIR$/03. Generic methods/Class type parameters" />
+            <option value="$PROJECT_DIR$/03. Generic methods/Declaring a method" />
+            <option value="$PROJECT_DIR$/03. Generic methods/How to declare a generic method" />
+            <option value="$PROJECT_DIR$/03. Generic methods/Invert an array" />
+            <option value="$PROJECT_DIR$/03. Generic methods/Methods" />
+            <option value="$PROJECT_DIR$/03. Generic methods/Print content" />
+            <option value="$PROJECT_DIR$/03. Generic methods/The first element" />
+            <option value="$PROJECT_DIR$/03. Generic methods/The usage of parameters" />
+            <option value="$PROJECT_DIR$/03. Generic methods/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

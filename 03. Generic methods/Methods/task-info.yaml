@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: take no parameters
+    is_correct: false
+  - text: are defined in a generic class
+    is_correct: false
+  - text: override methods of a generic class
+    is_correct: false
+  - text: introduce their own type parameters
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4tKU2eBBAacR/guEJ9XR/DWe7UxqJODhdAO/zUEx00FiLkjnN2tkLxBWwLWug1KXQ==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 15 May 2024 12:26:27 UTC"
+record: -1
+selected_options:
+  - 3
+custom_name: Methods
+local_check: true

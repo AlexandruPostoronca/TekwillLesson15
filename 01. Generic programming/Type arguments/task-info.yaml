@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "String[]"
+    is_correct: true
+  - text: "int[]"
+    is_correct: true
+  - text: String
+    is_correct: true
+  - text: int
+    is_correct: false
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am2veUqlp63F5lxEAwbBQempXPsBIjeXs2wTZafI9V0nFYxAf1rSciieVcn3ovR1XW7F96QigVF2MqEKkuOQFlCwilnLcf//jYj92VS4hTEwvUVGEQ/uSTS7mmwsCaJOpVg==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 15 May 2024 09:40:56 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 2
+custom_name: Type arguments
+local_check: true

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-05-15T15:52:51" hostname="DESKTOP-A97GDF4" time="0.017">
+  <properties/>
+  <testcase name="testStringArrayWithAllNonNullElements" classname="MainTest" time="0.007"/>
+  <testcase name="testStringArrayWithMoreElements" classname="MainTest" time="0.002"/>
+  <testcase name="testArrayOfStrings" classname="MainTest" time="0.001"/>
+  <testcase name="testArrayOfInts" classname="MainTest" time="0.002"/>
+  <testcase name="testEmptyString" classname="MainTest" time="0.001"/>
+  <testcase name="testIntArrayWithMoreNonNullElement" classname="MainTest" time="0.001"/>
+  <testcase name="testStringArrayWithOnlyOneElement" classname="MainTest" time="0.0"/>
+  <testcase name="testIntArrayWithOneNonNullElement" classname="MainTest" time="0.001"/>
+  <testcase name="testStringsArr" classname="MainTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

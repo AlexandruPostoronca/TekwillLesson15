@@ -1,0 +1,32 @@
+type: edu
+custom_name: Boxes are not just objects!
+files:
+  - name: src/Box.java
+    visible: true
+    encrypted_text: EU+0tlxHWsVtR1hhizghI3uqZ2weAw01vpJAgBEyWxKsgqA/2BbD8ybimPaGXM1fmmn3EB/YmlQ3ubTqGSZvPQcn9GisnZl+ZDvUWMOLvbWil5LULh9R5TFXON6SoPq+ZzeS79KLibRvOGftM5FRGYriVQaXkW7vxf9vMO9TF76deUx/xh6ucv7qQlGJv7s5NJlaH2M4bt9Vz0LCx4Gf+BsY1mEoTvSYYH5REcD77cSA6knVsrG5a6KTx/cw+ioZk79vRuNIdtrBkOT9lOGLxlj9zoUfq3nrx1XZukP9EkXho06qfwukC8q/nDt33siz+lsjRDpXTQUH/KnMTz/YfVf5xoIRbrNOPmahNvF3jp5NacMwoquiRljbZpTjwOeOANibOFcggZ+ThGCKFQesu94ATLvo/2jhInwK0JeF+7YA95l1hW/GM11Iwg1BliBwZP+kpY0hICdlcGevtKVhdXEPnfheeZNCRAnZWBfyMZvtxyx/cZasNm98o4nt5Es5IjaEkhS9ZeBAMqEi2swloST9KE5OY661vkkinQICxlUOrA92Icxn/QtvNU4Sj1tEhIRDp72mzy/2RC6ONb1ir+lplCOrxO8po4VxEnj1jdauIOL9mtzhjEwfwxG+LPTSOlmlI58C+/B9FpAju2Z4Py6Z/FP7BIlfaWEBqjMrBJWz1vg8qs6O288AP4XF6jNnhv3teXzX32Cqt59ub9Qu/Q==
+    learner_created: false
+  - name: src/Cake.java
+    visible: false
+    encrypted_text: HIUZIkZaB0MY85NVsOzbZ63u21UlaV0owNSLdLjOnso=
+    learner_created: false
+  - name: src/Pie.java
+    visible: false
+    encrypted_text: tEwiU38UIhswK5eY6Xru3B0GLMHDXxG2260P7j0nYtI=
+    learner_created: false
+  - name: src/Tart.java
+    visible: false
+    encrypted_text: Jch7Gq/N3z/qRNWPCKbLmjrteBSK7AOYEacDHvqQW2I=
+    learner_created: false
+  - name: test/BoxTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nNW1IvpougeK7rJlhAQ85ooZI8pPzIiB3LSJjLsQcOhXTIfxUDly08hIQA/OoBPJ2Yvpt8211HZ6e0dYJDjuUiVU5rTsunums7B4JL4mYxhP90BxMTUvHOg179dPRlnuTbDMe7m8ekuD109byEsaGdhS8JsTPmq618DseeEECFXvMB0UZ4Rno4eZwAH3/tylTouAiaPKQDSjp0N2JNXm/ecjcRqzN/JobWxZqk/UDaoGMQU/trFXmBMXdD1l26Y59HkDqV3LpgWuZ6IOPE7ApV96pJ4O3yApwDtTIcqSo6mEWXywUItXCZZFrgosYcfcZchR2sA/WWAv3WJL3fstdT8BwcCtsqlG6lKxEfnmQCdUVAYqwKN+6QZlYilNjwix2Vgp3+/oZ0Atuu4JtQ4tXHHdsWTk1H5ipmK3gKtMCOnL/aJROSp1fUPltPEzTT4yg7+2dv9y9Fa6+BrJC05sof33+MTTymos4o8ccQJet6/VTw0JDkKRetcZo4adfnGQ+7l9NxEPmA0N3I66SQR8oXrjabmjhLH0oeZMMMLX0wKG
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 17 May 2024 07:30:15 UTC"
+record: -1

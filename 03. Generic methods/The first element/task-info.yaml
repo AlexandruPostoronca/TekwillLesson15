@@ -1,0 +1,17 @@
+type: edu
+custom_name: The first element
+files:
+  - name: src/ArrayUtils.java
+    visible: true
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/MainTest.java
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 31 May 2024 21:10:09 UTC"
+record: -1

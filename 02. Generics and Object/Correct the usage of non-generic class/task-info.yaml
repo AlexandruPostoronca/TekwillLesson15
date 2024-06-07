@@ -1,0 +1,20 @@
+type: edu
+custom_name: Correct the usage of non-generic class
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am2veUqlp63F5lxEAwbBQempXPsBIjeXs2wTZafI9V0nFYxAf1rSciieVcn3ovR1XW7vo4MUSsfiAGpVXO3druckENcJnAqlb2jm8rH0gEnTuxUw3/FSe5s8s8/4TwO08uzKSayjYGf/IGdN95xEEiyXKo5Mj4c2cdYZMfWWhx9g00s9ro0byf4QSGnzxhOeO0BznAuYYixAlwGgP+DD44O6Bb5EL0iBqnRbS3L6HvywxCIpKz+FQ5FgqYaFUwTgy7+19/c5SWdEaXNsax1xjVviXPtYP5CYsae7yyhJsccCkV87XUaI1AdMn6CdMuk+LnyJyD9zFV29uKNxMfFO4yndXAkKYeEfc19lYwUpOIUr3yNgLWHv9cNouvyNqZtcqrg==
+    learner_created: false
+  - name: src/Holder.java
+    visible: true
+    encrypted_text: pQyOGiKJGDlK9VZ2Sdcruuh3YycpR/eAHalUTlp/XTm9j1S+GF3RLz4GscZGK6Amkpe0KzEHO4YDd+W033VDH3WKMjfXY/TnunN24WMAaq4a2vtEak2ym8w+ZALsOcQcEbUolezB7pHYGmBS6gN/Lc0iT0LCearbMaHkaxgyLq9lj+Ov93NaES21lTP7VITsCk5LrwuNgU4iprVUrEKxPxD4S+gB/G/hWOqUKNVHfekiylSdk+c2NaTCKO7/jioP
+    learner_created: false
+  - name: test/MainTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nEsEPHevjd6ZOkKdl5CNK3XoTnNMhliQtiuGjK71enIYXZKzozSlkIcKbL6Sid2DxPCVTdGgAwh348em+ytIWMJxwh4kFZpSbv3IZgjpRLPaVjt96XCl71Mxe1QRXR6zExV1a5RX7KkHXnIdUG3utIU9KrEAnCmRrTcRxCi6z59sjOyX6v5ex50Wy86z63QjpPYuxkFmm+UjSGj7KhlIsnNBa1FTX5mLxBXzJokfYLE11HnlxL9HzyKxipnw+pa9rFxBrKlXxD+VC78Yqvai7Jqt9I+ujD2mLRFpPAW8mMJJXUoF4wHlfd+bfrLw2GBDS/0fFLk0k+7TViQjrjppk17PcvLRs/1kz/3lcjzLlef5Xv/a1IUlD5u9F7uayXJQ/sdPSeiwiDVkQZQAa2gjBl/eG8bgGoh93KxRZ/4/q/SENlPjQBRfcqSIiEs5mbEAIu/M9ElIkGsv2ffOQKAq/AhahmamFsRo991OipFviOed6PSoScjdoUFHSv+IK3HG6lKunAJ/fBNo0w4+UhcBmUVs3YT5RUCeKX89dscgMUXFZo1SPn3SuNV4AVuPeFjLiM7LDdXTYNDaAWzNPZC4bYdZ1tl0oM7zOTGLAP0Cws8+aCSqgopp3K70dMHpQ3eyPXSRGURhp8hM3NSiOZh0ldKL6HOQplR7SPRWKeJrUWdg/iF6IQvaM2tIQeLeRo4d7yZtJkGQnG3iy8fVJonmQjKsW6c7e5CHR7EfJk5JvurCjICWKrqcdS5HUzkcN8TUPKFoexttx+6VhGM7SlbQT2jiUHgZQGBDzjoXAiweFKZbSalduGsBD4SUV/52PmGhfB7ouo9e/X9ZNYu9dfCjRvccUgvvTE3MNSwEO285Cq67VWx7r7c7+Oif4khcPghPjAg7wXFHobW1jZq++IsBuyo=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 15 May 2024 10:29:01 UTC"
+record: -1

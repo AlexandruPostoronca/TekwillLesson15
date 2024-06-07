@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "public static [T] void method(T arg) { }"
+    is_correct: false
+  - text: "public static void [T] method(T arg) { }"
+    is_correct: false
+  - text: "public static &lt;T> void method(T arg) { }"
+    is_correct: true
+  - text: "public &lt;T> static void method(T arg) { }"
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4tKU2eBBAacR/guEJ9XR/DWe7UxqJODhdAO/zUEx00FiLkjnN2tkLxBWwLWug1KXQ==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 15 May 2024 12:26:03 UTC"
+record: -1
+selected_options:
+  - 2
+custom_name: How to declare a generic method
+local_check: true
